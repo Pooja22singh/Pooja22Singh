@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<div style="display:flex;justify-content: center;">
+<p align="center">
    <img src="https://www.apple.com/newsroom/images/product/os/ios/standard/Lion_Animoji_01232018_inline.gif.small.gif" />
-</div>
-
-
+</p>
 
 <!--
 **Pooja22singh/Pooja22Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
