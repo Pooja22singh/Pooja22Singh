@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+<div style="display:flex;justify-content: center;">
+   <img src="https://www.apple.com/newsroom/images/product/os/ios/standard/Lion_Animoji_01232018_inline.gif.small.gif" />
+</div>
 
-<img src="https://www.apple.com/newsroom/images/product/os/ios/standard/Lion_Animoji_01232018_inline.gif.small.gif" />
 
 
 <!--
